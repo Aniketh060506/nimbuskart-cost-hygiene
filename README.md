@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python janitor.py --dry-run
 ```
 
-The script exits with code `1` if orphans are found (so CI fails). Reports are written to `report.json` and `report.md`.
+The script exits with code `1` if orphans are found (so CI fails). Reports are written to `report.json` and `report.md`
 
 ### 5 — Tear down
 
